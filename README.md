@@ -2,7 +2,7 @@
 
 Ce repo contient les anciennes formations IA de l'association Kryptosphere.
 
-## Liens Canva
+## Canva
 
 - [CNN](https://www.canva.com/design/DAE3DPJSYzM/wJ21Uc8LlFS4Uek37HDIHg/view?utm_content=DAE3DPJSYzM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 - [data science](https://www.canva.com/design/DAE6n3KA52U/6pocPOlCTN0XgfMek4K7BA/view?utm_content=DAE6n3KA52U&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
@@ -15,7 +15,7 @@ Ce repo contient les anciennes formations IA de l'association Kryptosphere.
 - [actu](https://www.canva.com/design/DAE1s7er49Y/vaBXJE-qC6z5nHEFDksLeQ/view?utm_content=DAE1s7er49Y&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 
-## Liens Slides
+## Slides
 
 - [DeepFakes](DeepFakes/README.md)
 - [DeepLearning](DeepLearning/README.md)
