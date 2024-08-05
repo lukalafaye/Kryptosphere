@@ -1,5 +1,7 @@
 # Formations IA Kryptosphere 
 
+Ce repo contient les anciennes formations IA de l'association Kryptosphere.
+
 ## Liens Canva
 
 [CNN] https://www.canva.com/design/DAE3DPJSYzM/wJ21Uc8LlFS4Uek37HDIHg/view?utm_content=DA[…]gn=designshare&utm_medium=link&utm_source=homepage_design_menu
