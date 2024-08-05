@@ -139,7 +139,7 @@ x.grad -> calcule en x=2
 
 ```
 class SQ(torch.autograd.Function):
- 	@staticmethod
+	@staticmethod
     def forward(ctx,i):
         """
         ctx est un objet de contexte utilisé pour garder en cache des informations utilisées lors de la back propagation que l'on récupère grâce à ctx.save_for_backward method.

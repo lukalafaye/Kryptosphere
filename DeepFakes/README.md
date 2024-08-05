@@ -1,4 +1,12 @@
-# Vocabulary
+# DeepFakes
+
+Les deepfakes sont des vidéos ou des images créées à l'aide de l'intelligence artificielle et de l'apprentissage automatique pour superposer le visage ou la voix d'une personne sur une autre. En d'autres termes, les deepfakes permettent de créer des vidéos ou des images qui donnent l'impression qu'une personne dit ou fait quelque chose qu'elle n'a jamais dit ou fait.
+
+Les deepfakes peuvent être utilisés à des fins malveillantes, telles que la diffusion de fausses informations ou la diffamation de personnes en faisant circuler des vidéos ou des images trompeuses. Ils peuvent également être utilisés à des fins de divertissement ou de création artistique.
+
+Il est important de noter que les deepfakes peuvent être très convaincants et difficiles à détecter, ce qui soulève des préoccupations quant à leur potentiel d'abus et de manipulation. C'est pourquoi il est crucial de sensibiliser le public à la présence de deepfakes et de développer des outils pour les détecter et les signaler.
+
+## Vocabulaire anglais
 
 ### 1. First order vs second order information
 
@@ -43,3 +51,7 @@ There are different schemes for upright and inverted faces: upright faces are mo
 Sparse techniques only need to process some pixels from the whole image.
 Dense techniques process all the pixels. Dense motion = 1 vector per pixel
 
+## Slides
+
+- [PDF Slides](deepfakes.pdf)
+- [ODP Slides](deepfakes.odp)
